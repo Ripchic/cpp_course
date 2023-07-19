@@ -1,0 +1,5 @@
+{
+    "allow_change": "palindrome.cpp",
+    "tests": "test_palindrome",
+    "solutions": "private"
+}

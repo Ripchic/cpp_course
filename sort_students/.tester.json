@@ -1,0 +1,6 @@
+{
+  "allow_change": "sort_students.cpp",
+  "tests": "test_sort_students",
+  "solutions": "private",
+  "linter": false
+}

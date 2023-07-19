@@ -1,0 +1,3 @@
+/Users/steve/ead-222-Stepan-Pavlov-Steve/tasks/cmake-build-debug/CMakeFiles/tasks.dir
+/Users/steve/ead-222-Stepan-Pavlov-Steve/tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/steve/ead-222-Stepan-Pavlov-Steve/tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
