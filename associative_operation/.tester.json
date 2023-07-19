@@ -1,0 +1,5 @@
+{
+    "allow_change": "associative_operation.cpp",
+    "tests": "test_associative_operation",
+    "solutions": "private"
+}
